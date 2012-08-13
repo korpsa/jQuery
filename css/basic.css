@@ -1,0 +1,18 @@
+/* RESET */ 
+* {
+	padding: 0;
+	margin: 0;
+}
+
+/* BACKTOP */
+#backTop {
+	position: fixed;
+	bottom: 50px;
+	right: 50px;
+	display: none;
+}
+
+/* TESTING CONTENT */
+p {
+	padding: 5em;
+}
